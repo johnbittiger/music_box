@@ -7,6 +7,7 @@ For project description, please see PPT.
 
 ### Mac
 https://gist.github.com/ololobus/4c221a0891775eaa86b0
+
 Take "Alternatively" approach if you want to use spark with Jupyter Notebook
 
 ### Linux (e.g. VM)
